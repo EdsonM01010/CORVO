@@ -1,0 +1,10 @@
+program helloworld;
+
+up
+
+ visor <- ('Hello World !!!');
+
+down
+
+
+end;
